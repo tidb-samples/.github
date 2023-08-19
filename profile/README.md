@@ -8,5 +8,5 @@
 
 ### Need helps?
 
-- ❓ [Ask questions on the TiDB Forum](https://ask.pingcap.com/).
-- 💬 [Join the `help` channel on the Discord](https://discord.gg/ePb3VMJqXk).
+- ❓ Asking questions in the [TiDB Forum](https://ask.pingcap.com/).
+- 💬 Talk to community directly at [Discord](https://discord.gg/ePb3VMJqXk).
