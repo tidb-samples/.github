@@ -10,7 +10,10 @@
 
 **Java**
 
-- [Connecting to TiDB with Hibernate](https://github.com/tidb-samples/tidb-java-hibernate-quickstart)
+- [Connecting to TiDB via Spring Boot, Spring Data JPA](https://github.com/tidb-samples/tidb-java-jdbc-quickstart)
+- [Connecting to TiDB via ORM Framework Hibernate](https://github.com/tidb-samples/tidb-java-hibernate-quickstart)
+- [Connecting to TiDB via Persistence Framework MyBatis](https://github.com/tidb-samples/tidb-java-mybatis-quickstart)
+- [Connecting to TiDB via JDBC](https://github.com/tidb-samples/tidb-java-jdbc-quickstart)
 
 ### Need helps?
 
