@@ -8,7 +8,11 @@
 - [TiDB Serverless Next.js Vercel Quickstart](https://github.com/tidb-samples/tidb-nextjs-vercel-quickstart) (TypeScript)
 - [TiDB Serverless AWS Lambda Function Qucikstart](https://github.com/tidb-samples/tidb-aws-lambda-quickstart) (TypeScript)
 
+**Java**
+
+- [Connecting to TiDB with Hibernate](https://github.com/tidb-samples/tidb-java-hibernate-quickstart)
+
 ### Need helps?
 
 - ❓ Asking questions in the [TiDB Forum](https://ask.pingcap.com/).
-- 💬 Talk to community directly at [Discord](https://discord.gg/ePb3VMJqXk).
+- 💬 Talk to the community directly at [Discord](https://discord.gg/ePb3VMJqXk).
