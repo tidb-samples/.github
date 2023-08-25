@@ -15,6 +15,14 @@
 - [Connect to TiDB via MyBatis](https://github.com/tidb-samples/tidb-java-mybatis-quickstart)
 - [Connect to TiDB via JDBC](https://github.com/tidb-samples/tidb-java-jdbc-quickstart)
 
+**Python**
+
+- [A sample Django application with TiDB](https://github.com/tidb-samples/tidb-python-django-quickstart)
+- [Connect to TiDB via SQLAlchemy](https://github.com/tidb-samples/tidb-python-sqlalchemy-quickstart)
+- [Connect to TiDB via PyMySQL](https://github.com/tidb-samples/tidb-python-pymysql-quickstart)
+- [Connect to TiDB via mysqlclient](https://github.com/tidb-samples/tidb-python-mysqlclient-quickstart)
+- [Connect to TiDB via MySQL Connector/Python](https://github.com/tidb-samples/tidb-python-mysqlconnector-quickstart)
+
 ### Need help?
 
 - ❓ Asking questions in the [TiDB Forum](https://ask.pingcap.com/).
