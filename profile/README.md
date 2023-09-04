@@ -2,9 +2,10 @@
 
 **JavaSrcipt/TypeScript**
 
-- [Connecting to TiDB with node-mysql2 Driver](https://github.com/tidb-samples/tidb-nodejs-mysql2-quickstart) (JavaSrcipt)
-- [Connecting to TiDB with mysqljs/mysql Driver](https://github.com/tidb-samples/tidb-nodejs-mysqljs-quickstart) (JavaSrcipt)
-- [Connecting to TiDB with ORM framework Prisma](https://github.com/tidb-samples/tidb-nodejs-prisma-quickstart) (TypeScript)
+- [Connect to TiDB with node-mysql2 Driver](https://github.com/tidb-samples/tidb-nodejs-mysql2-quickstart) (JavaSrcipt)
+- [Connect to TiDB with mysqljs/mysql Driver](https://github.com/tidb-samples/tidb-nodejs-mysqljs-quickstart) (JavaSrcipt)
+- [Connect to TiDB with ORM framework Prisma](https://github.com/tidb-samples/tidb-nodejs-prisma-quickstart) (TypeScript)
+- [Connect to TiDB with ORM framework TypeORM](https://github.com/tidb-samples/tidb-nodejs-typeorm-quickstart) (TypeScript)
 - [TiDB Serverless Next.js Vercel Quickstart](https://github.com/tidb-samples/tidb-nextjs-vercel-quickstart) (JavaSrcipt)
 - [TiDB Serverless AWS Lambda Function Qucikstart](https://github.com/tidb-samples/tidb-aws-lambda-quickstart) (TypeScript)
 
