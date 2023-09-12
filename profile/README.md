@@ -25,6 +25,11 @@
 - [Connect to TiDB via mysqlclient](https://github.com/tidb-samples/tidb-python-mysqlclient-quickstart)
 - [Connect to TiDB via MySQL Connector/Python](https://github.com/tidb-samples/tidb-python-mysqlconnector-quickstart)
 
+**Ruby**
+
+- [Connect to TiDB via mysql2](https://github.com/tidb-samples/tidb-ruby-mysql2-quickstart)
+- [Connect to TiDB via Rails](https://github.com/tidb-samples/tidb-ruby-rails-quickstart)
+
 ### Need help?
 
 - ❓ Asking questions in the [TiDB Forum](https://ask.pingcap.com/).
