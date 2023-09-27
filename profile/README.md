@@ -24,6 +24,7 @@
 - [Connect to TiDB via PyMySQL](https://github.com/tidb-samples/tidb-python-pymysql-quickstart)
 - [Connect to TiDB via mysqlclient](https://github.com/tidb-samples/tidb-python-mysqlclient-quickstart)
 - [Connect to TiDB via MySQL Connector/Python](https://github.com/tidb-samples/tidb-python-mysqlconnector-quickstart)
+- [Connect to TiDB via peewee](https://github.com/tidb-samples/tidb-python-peewee-quickstart)
 
 **Ruby**
 
