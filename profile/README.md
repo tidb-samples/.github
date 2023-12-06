@@ -12,7 +12,7 @@
 
 **Java**
 
-- [🌟 Connect to TiDB via Spring Boot and Spring Data JPA](https://github.com/tidb-samples/tidb-java-jdbc-quickstart)
+- [🌟 Connect to TiDB via Spring Boot and Spring Data JPA](https://github.com/tidb-samples/tidb-java-springboot-jpa-quickstart)
 - [Connect to TiDB via Hibernate](https://github.com/tidb-samples/tidb-java-hibernate-quickstart)
 - [Connect to TiDB via MyBatis](https://github.com/tidb-samples/tidb-java-mybatis-quickstart)
 - [Connect to TiDB via JDBC](https://github.com/tidb-samples/tidb-java-jdbc-quickstart)
