@@ -26,6 +26,11 @@
 - [Connect to TiDB via MySQL Connector/Python](https://github.com/tidb-samples/tidb-python-mysqlconnector-quickstart)
 - [Connect to TiDB via peewee](https://github.com/tidb-samples/tidb-python-peewee-quickstart)
 
+**Golang**
+
+- [Connect to TiDB via GORM](https://github.com/tidb-samples/tidb-golang-gorm-quickstart)
+- [Connect to TiDB via go-sql-driver/mysql](https://github.com/tidb-samples/tidb-golang-sql-driver-quickstart)
+
 **Ruby**
 
 - [Connect to TiDB via mysql2](https://github.com/tidb-samples/tidb-ruby-mysql2-quickstart)
