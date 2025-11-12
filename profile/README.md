@@ -38,5 +38,4 @@
 
 ### Need help?
 
-- ❓ Asking questions in the [TiDB Forum](https://ask.pingcap.com/).
 - 💬 Talk to the community directly at [Discord](https://discord.gg/ePb3VMJqXk).
