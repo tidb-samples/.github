@@ -6,9 +6,9 @@
 - [Connect to TiDB with mysqljs/mysql Driver](https://github.com/tidb-samples/tidb-nodejs-mysqljs-quickstart) (JavaSrcipt)
 - [Connect to TiDB with ORM framework Prisma](https://github.com/tidb-samples/tidb-nodejs-prisma-quickstart) (TypeScript)
 - [Connect to TiDB with ORM framework TypeORM](https://github.com/tidb-samples/tidb-nodejs-typeorm-quickstart) (TypeScript)
-- [TiDB Cloud Node.js & Sequelize Quickstart](https://github.com/tidb-samples/tidb-nodejs-sequelize-quickstart) (TypeScript)
-- [TiDB Cloud Next.js Vercel Quickstart](https://github.com/tidb-samples/tidb-nextjs-vercel-quickstart) (JavaSrcipt)
-- [TiDB Cloud AWS Lambda Function Qucikstart](https://github.com/tidb-samples/tidb-aws-lambda-quickstart) (TypeScript)
+- [Connect to TiDB with ORM framework Sequelize](https://github.com/tidb-samples/tidb-nodejs-sequelize-quickstart) (TypeScript)
+- [Connect to TiDB with Web Framework Next.js](https://github.com/tidb-samples/tidb-nextjs-vercel-quickstart) (JavaSrcipt)
+- [Connect to TiDB with AWS Lambda Function](https://github.com/tidb-samples/tidb-aws-lambda-quickstart) (TypeScript)
 
 **Java**
 
